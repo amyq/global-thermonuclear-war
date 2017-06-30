@@ -5,9 +5,18 @@ Advanced text styles
 
 If |ACSF| looks like "Acquia Cloud Site Factory" then the quick-and-dirty substitution file works.
 
+Long-term, I think we want to take this approach instead, placing this chunk in conf.py:
+
+.. code-block:: python
+  # A string of reStructuredText that will be included at the beginning of every source file that is read.
+  rst_prolog = """
+  .. include:: ../../swaps/swap_descriptions.txt
+  .. include:: ../../swaps/swap_names.txt
+  """
+
 Text substitutions
 =====================
-> If you want to use some substitutions for all documents, put them into ``rst_prolog`` or put them into a separate file and include it into all documents you want to use them in, using the include directive. (Be sure to give the include file a file name extension differing from that of other source files, to avoid Sphinx finding it as a standalone document.)
+If you want to use some substitutions for all documents, put them into ``rst_prolog`` or put them into a separate file and include it into all documents you want to use them in, using the include directive. (Be sure to give the include file a file name extension differing from that of other source files, to avoid Sphinx finding it as a standalone document.)
 
 http://docutils.sourceforge.net/docs/ref/rst/directives.html#include
 
