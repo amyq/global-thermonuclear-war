@@ -3,7 +3,7 @@
 Advanced text styles
 *****************************************************
 
-If "|ACSF|" looks like "Acquia Cloud Site Factory" then the quick-and-dirty substitution file works.
+If |ACSF| looks like "Acquia Cloud Site Factory" then the quick-and-dirty substitution file works.
 
 Text substitutions
 =====================
