@@ -1,1 +1,1 @@
-.. |ACSF| Acquia Cloud Site Factory
+.. |ACSF| replace:: Acquia Cloud Site Factory
