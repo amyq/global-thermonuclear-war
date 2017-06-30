@@ -1,3 +1,5 @@
+.. include:: _includes/acquia-products.txt
+
 Resources
 *****************************************************
 
