@@ -5,7 +5,7 @@ Advanced text styles
 
 If |ACSF| looks like "Acquia Cloud Site Factory" then the quick-and-dirty substitution file works.
 
-Long-term, I think we want to take this approach instead, placing this chunk in conf.py:
+Long-term, I think we want to take this approach instead, placing this chunk in ``conf.py``, source https://docs.chef.io/style_guide.html#rst-prolog
 
 .. code-block:: python
   # A string of reStructuredText that will be included at the beginning of every source file that is read.
