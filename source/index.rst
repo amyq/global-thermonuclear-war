@@ -34,6 +34,9 @@ General notes
 
 consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora
 
+.. todo:: how would we format a list of release notes?
+
+.. todo:: Craig says we'd include logo images, make a file for that
 
 Bacon ipsum dolor sit amet in ground round reprehenderit esse. Enim frankfurter ad labore non in flank. Pork chop spare ribs do, laborum irure aliqua prosciutto consectetur salami et pariatur ullamco eu.
 
