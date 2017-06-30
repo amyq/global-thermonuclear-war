@@ -1,9 +1,15 @@
+.. include:: _includes/acquia-products.txt
+
 Advanced text styles
 *****************************************************
+
+If "|ACSF|" looks like "Acquia Cloud Site Factory" then the quick-and-dirty substitution file works.
 
 Text substitutions
 =====================
 > If you want to use some substitutions for all documents, put them into ``rst_prolog`` or put them into a separate file and include it into all documents you want to use them in, using the include directive. (Be sure to give the include file a file name extension differing from that of other source files, to avoid Sphinx finding it as a standalone document.)
+
+http://docutils.sourceforge.net/docs/ref/rst/directives.html#include
 
 See http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#substitution-definitions
 
@@ -58,8 +64,12 @@ second item
   definition here
 
 
-OMG SORCERY
+Option lists
 ===============
+Somewhere out there, I saw a version that had some gorgeous styling, but I can't find what I had.
+http://louistiao.me/posts/demos/restructuredtext-demo/#option-lists has some decent style
+
+From reading https://gist.github.com/ionelmc/e876b73e2001acd2140f it looks like it's using the ``<kbd>`` tag.
 
 -a            command-line option "a"
 -b file       options can have arguments
