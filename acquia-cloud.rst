@@ -1,13 +1,8 @@
-
-You are here
-------------
-
-
-+ `Home`_
-+ `Documentation`_
-+ Acquia Cloud
-
-
+# A string of reStructuredText that will be included at the beginning of every source file that is read.
+rst_prolog = """
+.. include:: ../../swaps/swap_descriptions.txt
+.. include:: ../../swaps/swap_names.txt
+"""
 
 
 .. |cloud|
@@ -20,20 +15,20 @@ Current Acquia Connector versions - Drupal 7: `7.x-3.0`_ | Drupal 8:
 
 
 
-.. |cloud|dis a Drupal-tuned application lifecycle management suite
+.. |cloud| is a Drupal-tuned application lifecycle management suite
 with a complete infrastructure to support Drupal deployment workflow
-processes from development and staging through to production. Acquia
-Cloud includes powerful developer user interfaces, secure server
+processes from development and staging through to production. 
+.. |cloud| includes powerful developer user interfaces, secure server
 access using SSH, and automated deployment from a version-controlled
 code repository. It runs on proven open-source technologies that we've
-selected, tested, and optimized for Drupal. With Acquia Cloud, Acquia
+selected, tested, and optimized for Drupal. With .. |cloud|, Acquia
 delivers comprehensive Drupal infrastructure support from a single
 vendor.
 
 * QUICK LINKS: `Create an application`_* | *`Known issues`_* |
 *`Managing applications`_*
 
-Acquia Cloud gives you:
+.. |cloud| gives you:
 
 
 + Easy installation of any Drupal distribution
@@ -44,7 +39,7 @@ Acquia Cloud gives you:
   on demand
 
 
-Acquia Cloud supports businesses of any size with a variety of
+.. |cloud| supports businesses of any size with a variety of
 subscription levels:
 
 
@@ -58,16 +53,16 @@ subscription levels:
 
 
 
-Evaluating Acquia Cloud
+Evaluating .. |cloud| 
 -----------------------
 
 
 + Learn about `Acquia Cloud pricing`_
-+ Learn how to `install a fresh Drupal distribution`_ on Acquia Cloud
++ Learn how to `install a fresh Drupal distribution`_ on .. |cloud| 
 
 
 
-Accessing the Acquia Cloud interface
+Accessing the .. |cloud| interface
 ------------------------------------
 
 After you create an Acquia Cloud subscription, visit the `Acquia Cloud
