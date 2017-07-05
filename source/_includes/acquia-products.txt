@@ -1,1 +1,65 @@
-.. |ACSF| replace:: Acquia Cloud Site Factory
+.. |kb| replace:: /
+.. |aan| replace:: Acquia Analytics
+.. |blt| replace:: Acquia BLT
+.. |cloud| replace:: Acquia Cloud
+.. |acd| replace:: Acquia Cloud
+.. |cd| replace:: Acquia Cloud CD
+.. |edge| replace:: Acquia Cloud Edge
+.. |edgecdn| replace:: Acquia Cloud Edge CDN
+.. |edgeprotect| replace:: Acquia Cloud Edge Protect
+.. |ace| replace:: Acquia Cloud Enterprise
+.. |partners| replace:: Acquia Cloud for Partners
+.. |free| replace:: Acquia Cloud Free
+.. |ui| replace:: Acquia Cloud interface
+.. |acp| replace:: Acquia Cloud Professional
+.. |shield| replace:: Acquia Cloud Shield
+.. |vpn| replace:: Acquia Cloud Shield with VPN
+.. |acsf| replace:: Acquia Cloud Site Factory
+.. |dw| replace:: Acquia Commerce Connector for Demandware
+.. |anc| replace:: Acquia Connector
+.. |chc| replace:: Acquia Content Hub Connector
+.. |dwm| replace:: Acquia Demandware Drupal module
+.. |dd| replace:: Acquia Dev Desktop
+.. |ad| replace:: Acquia Drupal
+.. |ai| replace:: Acquia Insight
+.. |ais| replace:: Acquia Insight subscription
+.. |lift| replace:: Acquia Lift
+.. |liftp| replace:: Acquia Lift - Premium
+.. |lifts| replace:: Acquia Lift - Standard
+.. |alr| replace:: Acquia Lift Classic
+.. |alc| replace:: Acquia Lift Connector
+.. |alt| replace:: Acquia Lift Drupal
+.. |lepc| replace:: Acquia Lift for Content Syndication
+.. |lepp| replace:: Acquia Lift for Personalization
+.. |lplpo| replace:: Acquia Lift Starter - Premium
+.. |lplpw| replace:: Acquia Lift Starter - Standard
+.. |alw| replace:: Acquia Lift Web
+.. |anw| replace:: Acquia Network
+.. |bs| replace:: Acquia Pipelines
+.. |pl| replace:: Acquia Pipelines
+.. |ap| replace:: Acquia Purge
+.. |onb| replace:: Acquia Ready
+.. |as| replace:: Acquia Search
+.. |aqs| replace:: Acquia subscription
+.. |cod| replace:: Conference Organizing Distribution
+.. |hub| replace:: Content Hub
+.. |chs| replace:: Content Hub
+.. |chl| replace:: Content Hub client
+.. |chk| replace:: Content Hub SDK
+.. |ldbs| replace:: ContextDB
+.. |cdw| replace:: Data warehouse
+.. |ldw| replace:: data warehouse
+.. |com| replace:: Drupal Commons
+.. |dg| replace:: Drupal Gardens
+.. |leb| replace:: Experience Builder
+.. |dgd| replace:: Gardens distribution
+.. |lib| replace:: Help Center
+.. |cake| replace:: Layercake
+.. |ld| replace:: Lightning
+.. |deadline| replace:: May 9, 2013
+.. |mol| replace:: Mollom
+.. |n2| replace:: older Acquia interface
+.. |ldb| replace:: Omnichannel
+.. |lpm| replace:: Profile Manager
+.. |sfa| replace:: Site Factory API
+.. |sfi| replace:: Site Factory Management Console
