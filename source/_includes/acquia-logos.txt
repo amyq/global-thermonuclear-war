@@ -1,0 +1,1 @@
+.. |logo| replace:: HEY A LOGO
