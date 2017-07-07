@@ -96,7 +96,7 @@ html_theme = 'bootstrap'
 #
 # html_theme_options = {}
 html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
-html_sidebars = {'**': ['localtoc.html', 'globaltoc.html', 'searchbox.html'], 'sourcelink.html'}
+html_sidebars = {'**': ['localtoc.html', 'globaltoc.html', 'searchbox.html', 'sourcelink.html']}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
