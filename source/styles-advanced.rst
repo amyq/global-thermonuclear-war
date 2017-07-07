@@ -17,15 +17,11 @@ Long-term, I think we want to take this approach instead, placing this chunk in 
 
 Text substitutions
 =====================
-If you want to use some substitutions for all documents, put them into ``rst_prolog`` or put them into a separate file and include it into all documents you want to use them in, using the include directive. (Be sure to give the include file a file name extension differing from that of other source files, to avoid Sphinx finding it as a standalone document.)
+``rst.prolog`` is defined in ``conf.py`` per http://widequestion.com/question/automatically-include-definitions-file-from-subdirectories/  and points to two text files in the ``_includes`` folder. (The different file name extension is to avoid Sphinx finding it as a standalone document.)
 
 http://docutils.sourceforge.net/docs/ref/rst/directives.html#include
 
 See http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#substitution-definitions
-
-.. todo:: Set up a separate file as an include see: http://widequestion.com/question/automatically-include-definitions-file-from-subdirectories/ and maybe https://stackoverflow.com/questions/26242919/sphinx-documentation-system-multiple-substitutions-with-rst-prolog
-
-.. todo:: Substitutions in subdirectories are an issue so we have to find a way to cope with this if we're going to use subdirectories for products (which we want to do because it makes paths automatically): see http://global-thermonuclear-war.readthedocs.io/en/latest/acquia-cloud/index.html for a broken example
 
 
 
@@ -113,6 +109,6 @@ blocks:
 
 Theming
 ========
-.. todo:: Amy needs to intall bootstrap theme from https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
-.. todo:: Investigate ToC tree for sidebar (default is h2s on page are imported to sidebar) https://stackoverflow.com/questions/18969093/how-to-include-the-toctree-in-the-sidebar-of-each-page
+Our theme is Bootstrap, from http://sphinx-bootstrap-theme.readthedocs.io/ (there's another Bootstrap theme but it's for mkdocs, not Sphinx.)
 
+.. todo:: Investigate ToC tree for sidebar (default is h2s on page are imported to sidebar) https://stackoverflow.com/questions/18969093/how-to-include-the-toctree-in-the-sidebar-of-each-page
