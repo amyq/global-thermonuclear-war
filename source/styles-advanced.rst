@@ -25,6 +25,10 @@ See http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#substitut
 
 .. todo:: Set up a separate file as an include see: http://widequestion.com/question/automatically-include-definitions-file-from-subdirectories/ and maybe https://stackoverflow.com/questions/26242919/sphinx-documentation-system-multiple-substitutions-with-rst-prolog
 
+.. todo:: Substitutions in subdirectories are an issue so we have to find a way to cope with this if we're going to use subdirectories for products (which we want to do because it makes paths automatically): see http://global-thermonuclear-war.readthedocs.io/en/latest/acquia-cloud/index.html for a broken example
+
+
+
 Images
 ======================
 
@@ -110,3 +114,5 @@ blocks:
 Theming
 ========
 .. todo:: Amy needs to intall bootstrap theme from https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
+.. todo:: Investigate ToC tree for sidebar (default is h2s on page are imported to sidebar) https://stackoverflow.com/questions/18969093/how-to-include-the-toctree-in-the-sidebar-of-each-page
+
