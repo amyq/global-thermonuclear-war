@@ -1,5 +1,3 @@
-.. include:: _includes/acquia-products.txt
-
 .. War 4 documentation master file, created by
    sphinx-quickstart on Thu Jun 29 14:54:42 2017.
    You can adapt this file completely to your liking, but it should at least
@@ -18,7 +16,7 @@ You're ok with that, right?
 
    *
 
-Drumstick ut fugiat spare ribs, pig irure kielbasa pastrami ham hock veniam non voluptate venison. Biltong jowl ball tip, est cow flank corned beef hamburger pancetta short ribs velit meatball. Occaecat pork minim ham hock, adipisicing tenderloin pariatur drumstick tempor do biltong flank beef ribs. Pariatur tri-tip duis voluptate, chicken occaecat id nulla pork loin quis jowl ut tail.
+Drumstick |cloud| ut fugiat spare ribs, pig irure kielbasa pastrami ham hock veniam non voluptate venison. Biltong jowl ball tip, est cow flank corned beef hamburger pancetta short ribs velit meatball. Occaecat pork minim ham hock, adipisicing tenderloin pariatur drumstick tempor do biltong flank beef ribs. Pariatur tri-tip duis voluptate, chicken occaecat id nulla pork loin quis jowl ut tail.
 
 General notes
 ==================
