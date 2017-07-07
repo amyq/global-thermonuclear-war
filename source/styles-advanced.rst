@@ -23,7 +23,7 @@ http://docutils.sourceforge.net/docs/ref/rst/directives.html#include
 
 See http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#substitution-definitions
 
-.. todo:: Set up a separate file as an include
+.. todo:: Set up a separate file as an include see: http://widequestion.com/question/automatically-include-definitions-file-from-subdirectories/ and maybe https://stackoverflow.com/questions/26242919/sphinx-documentation-system-multiple-substitutions-with-rst-prolog
 
 Images
 ======================
@@ -105,3 +105,8 @@ Per-line quoting can also be used for unindented
 blocks:
 
 > Useful for quotes from email and
+
+
+Theming
+========
+.. todo:: Amy needs to intall bootstrap theme from https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
