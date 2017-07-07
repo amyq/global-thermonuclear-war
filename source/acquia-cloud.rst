@@ -1,4 +1,4 @@
-.. include:: /_includes/acquia-products.txt
+.. include:: ../_includes/acquia-products.txt
 
 
 |cloud|
