@@ -12,6 +12,8 @@ Techpubs Test
 You're ok with that, right?
 
 .. toctree::
+   :caption: Table of Contents
+   :titlesonly:
    :glob:
 
    *
