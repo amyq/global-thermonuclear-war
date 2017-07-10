@@ -24,6 +24,13 @@ Readthedocs
 * How readthedocs does builds: http://docs.readthedocs.io/en/latest/builds.html
 
 ############################################################
+Atom.io
+############################################################
+
+* https://atom.io/packages/rst-preview
+* https://atom.io/packages/language-restructuredtext
+
+############################################################
 Sphinx
 ############################################################
 
