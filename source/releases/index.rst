@@ -1,6 +1,6 @@
 ..  _releases:
 =============
-Release Notes
+Release Notes for Acquia Cloud
 =============
 
 Latest Stable Release
