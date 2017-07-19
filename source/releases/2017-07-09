@@ -1,0 +1,7 @@
+July 17, 2017
+-------------
+The Acquia Cloud interface includes the following update for the week of July 9, 2017 through July 15, 2017:
+
+Fixed issue
+-----------
+The activation email for Acquia Cloud accounts contained an improperly encoded URL when the registration address contained a plus (+) sign. (N3-2184)
