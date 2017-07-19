@@ -1,4 +1,4 @@
-.. include:: _includes/acquia-products.txt
+..  _styles-basic:
 
 Basic text styles
 *****************************************************
