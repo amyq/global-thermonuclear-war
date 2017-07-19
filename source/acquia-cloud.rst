@@ -1,6 +1,4 @@
-.. include:: _includes/acquia-products.txt
-
-
+..  _acquia-cloud:
 |cloud|
 ============
 

@@ -1,4 +1,3 @@
-.. include:: ../_includes/acquia-products.txt
 
 
 |cloud|
@@ -13,7 +12,7 @@ Current Acquia Connector versions - Drupal 7: `7.x-3.0`_ | Drupal 8:
 
  |cloud| is a Drupal-tuned application lifecycle management suite
 with a complete infrastructure to support Drupal deployment workflow
-processes from development and staging through to production. 
+processes from development and staging through to production.
 |cloud| includes powerful developer user interfaces, secure server
 access using SSH, and automated deployment from a version-controlled
 code repository. It runs on proven open-source technologies that we've

@@ -1,3 +1,8 @@
+..  _release-cloud-2017-07-09:
+
+Release notes for 2017-07-09
+*****************************************************
+
 July 17, 2017
 -------------
 The Acquia Cloud interface includes the following update for the week of July 9, 2017 through July 15, 2017:
