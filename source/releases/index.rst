@@ -7,9 +7,10 @@ Latest Stable Release
 ~~~~~~~~~~~~~~~~~~~~~
 
 .. toctree::
-    :maxdepth: 1
+  :maxdepth: 1
+  :titlesonly:
 
-    ..  _release-cloud-2017-07-09:
+  release-cloud-2017-07-09
 
 Previous Releases
 ~~~~~~~~~~~~~~~~~
@@ -18,5 +19,6 @@ Previous Releases
    :caption: Table of Contents
    :titlesonly:
    :glob:
+   :reversed:
 
    *
