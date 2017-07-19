@@ -32,7 +32,7 @@ consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porr
 
 Release notes
 ==================
-See :doc:`/releases/` for what I'm proposing. It also serves as an example for how to do internal links.
+See :doc:`/releases/index.rst` for what I'm proposing. It also serves as an example for how to do internal links.
 
 More crap
 ==================
