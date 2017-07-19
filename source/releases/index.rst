@@ -10,7 +10,7 @@ Latest Stable Release
   :maxdepth: 1
   :titlesonly:
 
-  release-cloud-2017-07-09
+  :doc:`release-cloud-2017-07-09`
 
 Previous Releases
 ~~~~~~~~~~~~~~~~~
