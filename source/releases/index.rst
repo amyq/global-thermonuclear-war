@@ -1,4 +1,4 @@
-..  _cloud-release-notes:
+..  cloud-release-notes:
 =============
 Release Notes for Acquia Cloud
 =============
