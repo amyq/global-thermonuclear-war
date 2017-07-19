@@ -1,4 +1,4 @@
-..  _release-cloud-2017-07-02:
+..  _2017-07-02-cloud-release:
 
 Acquia Cloud release notes for 2017-07-02
 *****************************************************
