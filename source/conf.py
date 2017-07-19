@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# War 4 documentation build configuration file, created by
+# Techpubs-test documentation build configuration file, created by
 # sphinx-quickstart on Thu Jun 29 14:54:42 2017.
 #
 # This file is execfile()d with the current directory set to its
@@ -51,9 +51,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'War 4'
-copyright = '2017, Armageddon'
-author = 'Armageddon'
+project = 'Techpubs-test'
+copyright = '2017, Techpubs team'
+author = 'Techpubs and tea'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -137,8 +137,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'War4.tex', 'War 4 Documentation',
-     'Armageddon', 'manual'),
+    (master_doc, 'Techpubs.tex', 'Techpubs-test Documentation',
+     'Techpubs team', 'manual'),
 ]
 
 
@@ -147,7 +147,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'war4', 'War 4 Documentation',
+    (master_doc, 'war4', 'Techpubs-test Documentation',
      [author], 1)
 ]
 
@@ -158,7 +158,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'War4', 'War 4 Documentation',
+    (master_doc, 'War4', 'Techpubs-test Documentation',
      author, 'War4', 'One line description of project.',
      'Miscellaneous'),
 ]
