@@ -1,5 +1,5 @@
 ..  _resources:
-Resources
+Resources for RTD
 *****************************************************
 
 Our master scratchpad is at https://docs.google.com/document/d/16BX5nxBttZm7anPuDyqVQbfwC8NijDzQ0aYmsgDvK7U/edit#
