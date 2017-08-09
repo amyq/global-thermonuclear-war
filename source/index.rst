@@ -10,8 +10,8 @@ Product Documentation
 .. toctree::
    :caption: Table of Contents
    :titlesonly:
-   :glob:
    :hidden:
+   :glob:
 
    *
 
