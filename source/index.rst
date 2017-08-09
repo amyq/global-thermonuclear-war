@@ -15,8 +15,8 @@ Product Documentation
    :glob:
 
    *
-   /releases
-   /acquia-cloud
+   /releases/*
+   /acquia-cloud/*
 
 +--------------------------------------+----------------------------+--------------------------------+------------------------------------+
 | |lift-img| |lift-text|               | |cloud-img| |cloud-text|   | |ra-img| |ra-text|             | |api-img| |api-text|               |
