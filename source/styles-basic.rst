@@ -1,6 +1,6 @@
 ..  _styles-basic:
 
-Basic text styles
+Text styles: basic
 *****************************************************
 
 
@@ -21,7 +21,7 @@ Links
     Our builds: https://readthedocs.org/projects/global-thermonuclear-war/builds/
 
     It's almost like we need a style guide. (づ◕‿◕｡)づ
-    
+
 Lists
 =========
 
