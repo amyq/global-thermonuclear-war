@@ -19,8 +19,11 @@ personalize your content for customers, including the following:
 | Package   | |leb link|            | |lpm link|     | |ch link|              | |ldb|          |
 +================+========+=========+================+========================+================+
 | |lifts|   | |Yes|                 | |Yes|          | |Yes|                  | |No|           |
+|           |                       |                |                        |                |
 | |liftp|   | |Yes|                 | |Yes|          | |Yes|                  | |Yes|          |
+|           |                       |                |                        |                |
 | |lplpw|   | (non-production only) | |Yes|          | (non-production only)  | |No|           |
+|           |                       |                |                        |                |
 | |lplpo|   | (non-production only) | |Yes|          | (non-production only)  | |Yes|          |
 +-----------+-----------------------+----------------+------------------------+----------------+
 
@@ -111,20 +114,21 @@ documentation page.
 
 .. |Acquia Lift logo| image:: http://docs.acquia.com/sites/default/files/doc/2014/feb/logo-lift.png
     :width: 61 px
-    :alt: |lpm|
+    :align: right
 
 .. |Yes| image:: http://docs.acquia.com/sites/docs.acquia.com/files/doc/2016/mar/check-green.png
 .. |No| image:: http://docs.acquia.com/sites/docs.acquia.com/files/doc/2016/mar/cloud-x-red2.png
 .. |leb logo| image:: http://docs.acquia.com/sites/docs.acquia.com/files/product-icons/lift-Experience-Builder.png
     :width: 40 px
-    :alt: |leb|
+    :align: right
+
 .. |lpm logo| image:: http://docs.acquia.com/sites/docs.acquia.com/files/product-icons/lift-Profile-Manager-final.png
     :width: 40 px
-    :alt: |lpm|
+    :align: right
 
 .. |ch logo| image:: http://docs.acquia.com/sites/default/files/doc/2015/oct/content-hub-logo-sm.png
     :width: 40 px
-    :alt: |ch|
+    :align: right
 
 .. |leb link| replace:: `|leb| <http://docs.acquia.com/lift/drupal>`__
 .. |lpm link| replace:: `|lpm| <http://docs.acquia.com/lift/drupal/web>`__
