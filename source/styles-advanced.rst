@@ -22,7 +22,7 @@ http://docutils.sourceforge.net/docs/ref/rst/directives.html#include
 
 See http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#substitution-definitions
 
-
+.. todo:: Document the process of adding http://sphinxcontrib-fulltoc.readthedocs.io/en/latest/install.html which included updating ``conf.py`` and ``requirements.txt`` 
 
 Images
 ======================
