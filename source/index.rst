@@ -9,12 +9,14 @@ Product Documentation
 
 .. toctree::
    :caption: Table of Contents
-   :maxdepth: 2
+   :maxdepth: 3
    :titlesonly:
    :hidden:
    :glob:
 
    *
+   /releases
+   /acquia-cloud
 
 +--------------------------------------+----------------------------+--------------------------------+------------------------------------+
 | |lift-img| |lift-text|               | |cloud-img| |cloud-text|   | |ra-img| |ra-text|             | |api-img| |api-text|               |
