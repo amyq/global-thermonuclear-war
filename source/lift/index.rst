@@ -3,8 +3,7 @@ Acquia Lift
 
 |Acquia Lift logo|
 
-`|lift| <https://www.acquia.com/products-services/acquia-lift>`__
-lets you track customers' behavior throughout their buying journey —
+|lift|_ lets you track customers' behavior throughout their buying journey —
 from anonymous visitor to loyal, repeat customer. Acquia Lift unifies
 customer content and profile data from multiple sources to deliver
 in-context, personalized experiences across any channel or device.
@@ -16,7 +15,7 @@ Available packages
 personalize your content for customers, including the following:
 
 +-----------+-----------------------+----------------+------------------------+----------------+
-| Package   | |leb link|            | |lpm link|     | |ch link|              | |ldb|          |
+| Package   | |leb|_                | |lpm|_         | |hub|_                  | |ldb|_        |
 +================+========+=========+================+========================+================+
 | |lifts|   | |Yes|                 | |Yes|          | |Yes|                  | |No|           |
 |           |                       |                |                        |                |
@@ -34,7 +33,7 @@ Product components
 better engage with your website visitors:
 
 
--  **`|leb| <http://docs.acquia.com/lift/drupal>`_**
+-  **|leb|_**
 
    |leb logo|\ Instead of having to use a separate
    application with its own interface and API to target content to your
@@ -46,7 +45,7 @@ better engage with your website visitors:
    |lpm|, even if some of your websites aren't using
    Drupal.
 
--  **`|lpm| <http://docs.acquia.com/lift/drupal/web>`_**
+-  **|lpm|_**
 
    |lpm logo|\ As a cloud-based application separate
    from your website, |lpm| lets you search for and
@@ -61,7 +60,7 @@ better engage with your website visitors:
    to drag and drop customized content that can target those specific
    users.
 
--  **`|hub| <http://docs.acquia.com/content-hub>`__**
+-  **|hub|_**
 
    |ch logo|\ |hub| is a cloud-based,
    centralized content distribution and syndication solution that
@@ -109,7 +108,7 @@ Firefox.
 Note for |alr| (|lift| 2.x) users
 
 For product documentation regarding previous versions of
-|lift|, see the `|alr| <http://docs.acquia.com/lift/offers>`__
+|lift|, see the |alr|_
 documentation page.
 
 .. |Acquia Lift logo| image:: http://docs.acquia.com/sites/default/files/doc/2014/feb/logo-lift.png
@@ -130,7 +129,9 @@ documentation page.
     :width: 40 px
     :align: right
 
-.. |leb link| replace:: `|leb| <http://docs.acquia.com/lift/drupal>`__
-.. |lpm link| replace:: `|lpm| <http://docs.acquia.com/lift/drupal/web>`__
-.. |lplpw link| replace:: `Dev Desktop <http://docs.acquia.com/lift/drupal>`__
-.. |ch link| replace:: `Dev Desktop <http://docs.acquia.com/content-hub>`__
+.. _alr: http://docs.acquia.com/lift/offers
+.. _leb: https://docs.acquia.com/lift/drupal
+.. _lpm: https://docs.acquia.com/lift/drupal/web
+.. _hub: https://docs.acquia.com/lift/drupal/web
+.. _ldb: https://docs.acquia.com/content-hub
+.. _lift: https://www.acquia.com/products-services/acquia-lift
