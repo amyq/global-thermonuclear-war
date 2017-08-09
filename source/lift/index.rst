@@ -16,7 +16,7 @@ Available packages
 personalize your content for customers, including the following:
 
 +-----------+-----------------------+----------------+------------------------+----------------+
-| Package   | |leb link|            | |lpm link|     | |ch link|              | |ldb|          |
+| Package   | |leb-link|            | |lpm-link|     | |ch-link|              | |ldb|          |
 +================+========+=========+================+========================+================+
 | |lifts|   | |Yes|                 | |Yes|          | |Yes|                  | |No|           |
 |           |                       |                |                        |                |
@@ -130,7 +130,7 @@ documentation page.
     :width: 40 px
     :align: right
 
-.. |leb link| replace:: `|leb| <http://docs.acquia.com/lift/drupal>`__
-.. |lpm link| replace:: `|lpm| <http://docs.acquia.com/lift/drupal/web>`__
-.. |lplpw link| replace:: `Dev Desktop <http://docs.acquia.com/lift/drupal>`__
-.. |ch link| replace:: `Dev Desktop <http://docs.acquia.com/content-hub>`__
+.. |leb-link| replace:: `|leb| <http://docs.acquia.com/lift/drupal>`__
+.. |lpm-link| replace:: `|lpm| <http://docs.acquia.com/lift/drupal/web>`__
+.. |lplpw-link| replace:: `Dev Desktop <http://docs.acquia.com/lift/drupal>`__
+.. |ch-link| replace:: `Dev Desktop <http://docs.acquia.com/content-hub>`__
