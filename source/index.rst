@@ -11,6 +11,7 @@ Product Documentation
    :caption: Table of Contents
    :titlesonly:
    :glob:
+   :hidden:
 
    *
 
