@@ -9,7 +9,7 @@ Product Documentation
 
 .. toctree::
    :caption: Table of Contents
-   :maxdepth: 3
+   :maxdepth: 1
    :titlesonly:
    :hidden:
    :glob:
