@@ -1,4 +1,13 @@
+.. toctree::
+   :caption: Table of Contents
+   :maxdepth: 3
+   :titlesonly:
+   :hidden:
+   :glob:
 
+   *
+   /releases
+   /acquia-cloud
 
 |cloud|
 ============
