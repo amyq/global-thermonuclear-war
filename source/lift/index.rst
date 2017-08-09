@@ -1,3 +1,6 @@
+Acquia Lift
+*****************************************************
+
 |Acquia Lift logo|
 
 `|lift| <https://www.acquia.com/products-services/acquia-lift>`__
@@ -27,7 +30,8 @@ Product components
 |lift| includes the following components to help you
 better engage with your website visitors:
 
--  **`|leb| <http://docs.acquia.com/lift/drupal>`__**
+
+-  **`|leb| <http://docs.acquia.com/lift/drupal>`_**
 
    |leb logo|\ Instead of having to use a separate
    application with its own interface and API to target content to your
@@ -39,7 +43,7 @@ better engage with your website visitors:
    |lpm|, even if some of your websites aren't using
    Drupal.
 
--  **`|lpm| <http://docs.acquia.com/lift/drupal/web>`__**
+-  **`|lpm| <http://docs.acquia.com/lift/drupal/web>`_**
 
    |lpm logo|\ As a cloud-based application separate
    from your website, |lpm| lets you search for and
@@ -106,12 +110,23 @@ For product documentation regarding previous versions of
 documentation page.
 
 .. |Acquia Lift logo| image:: http://docs.acquia.com/sites/default/files/doc/2014/feb/logo-lift.png
+    :width: 61 px
+    :alt: |lpm|
+
 .. |Yes| image:: http://docs.acquia.com/sites/docs.acquia.com/files/doc/2016/mar/check-green.png
 .. |No| image:: http://docs.acquia.com/sites/docs.acquia.com/files/doc/2016/mar/cloud-x-red2.png
 .. |leb logo| image:: http://docs.acquia.com/sites/docs.acquia.com/files/product-icons/lift-Experience-Builder.png
+    :width: 40 px
+    :alt: |leb|
 .. |lpm logo| image:: http://docs.acquia.com/sites/docs.acquia.com/files/product-icons/lift-Profile-Manager-final.png
+    :width: 40 px
+    :alt: |lpm|
+
 .. |ch logo| image:: http://docs.acquia.com/sites/default/files/doc/2015/oct/content-hub-logo-sm.png
-.. |leb link| replace:: `Dev Desktop <http://docs.acquia.com/lift/drupal>`__
-.. |lpm link| replace:: `Dev Desktop <http://docs.acquia.com/lift/drupal/web>`__
+    :width: 40 px
+    :alt: |ch|
+
+.. |leb link| replace:: `|leb| <http://docs.acquia.com/lift/drupal>`__
+.. |lpm link| replace:: `|lpm| <http://docs.acquia.com/lift/drupal/web>`__
 .. |lplpw link| replace:: `Dev Desktop <http://docs.acquia.com/lift/drupal>`__
 .. |ch link| replace:: `Dev Desktop <http://docs.acquia.com/content-hub>`__
