@@ -1,7 +1,7 @@
 Acquia Lift
 *****************************************************
 
-|Acquia Lift logo|
+|Acquia-Lift-logo|
 
 |lift|_ lets you track customers' behavior throughout their buying journey —
 from anonymous visitor to loyal, repeat customer. Acquia Lift unifies
@@ -16,7 +16,7 @@ personalize your content for customers, including the following:
 
 +-----------+-----------------------+----------------+------------------------+----------------+
 | Package   | |leb|_                | |lpm|_         | |hub|_                  | |ldb|_        |
-+================+========+=========+================+========================+================+
++===========+=======================+================+========================+================+
 | |lifts|   | |Yes|                 | |Yes|          | |Yes|                  | |No|           |
 |           |                       |                |                        |                |
 | |liftp|   | |Yes|                 | |Yes|          | |Yes|                  | |Yes|          |
@@ -107,11 +107,10 @@ Firefox.
 
 Note for |alr| (|lift| 2.x) users
 
-For product documentation regarding previous versions of
-|lift|, see the |alr|_
+For product documentation regarding previous versions of |lift|, see the |alr|_
 documentation page.
 
-.. |Acquia Lift logo| image:: http://docs.acquia.com/sites/default/files/doc/2014/feb/logo-lift.png
+.. |Acquia-Lift-logo| image:: http://docs.acquia.com/sites/default/files/doc/2014/feb/logo-lift.png
     :width: 61 px
     :align: right
 
