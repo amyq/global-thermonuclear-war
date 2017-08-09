@@ -15,6 +15,13 @@ Links
 * `python <www.python.org>`_ is a standard link
 ** but if you encase that same code in two backticks on each side, like this: ```python <www.python.org>`_`` you should get a literal
 
+.. sidebar:: Sidebar Title
+    :subtitle: Optional Sidebar Subtitle
+
+    Our builds: https://readthedocs.org/projects/global-thermonuclear-war/builds/
+
+    It's almost like we need a style guide. (づ◕‿◕｡)づ
+    
 Lists
 =========
 
