@@ -14,6 +14,16 @@ Product Documentation
 
    *
 
++--------------------------------------+----------------------------+--------------------------------+------------------------------------+
+| |lift-img| |lift-text|               | |cloud-img| |cloud-text|   | |ra-img| |ra-text|             | |api-img| |api-text|               |
+|                                      |                            |                                |                                    |
+| |content-hub-img| |content-hub-text| | |acsf-img| |acsf-text|     | |as-img| |as-text|             | |dd-img| |dd-text|                 |
+|                                      |                            |                                |                                    |
+| |exp-bld-img| |exp-bld-text|         | |mollom-img| |mollom-text| | |dtools-img| |dtools-text|     |                                    |
+|                                      |                            |                                |                                    |
+| |prof-mgr-img| |prof-mgr-text|       |                            |                                |                                    |
++--------------------------------------+----------------------------+--------------------------------+------------------------------------+
+
 .. sidebar:: More Resources
 
    - `Tutorials <https://kbv2.acquia.com/tutorials>`__
@@ -27,17 +37,6 @@ Product Documentation
 
 .. |supportimage| image:: https://kbv2.acquia.com/sites/docs.acquia.com/files/inline-images/support_logo-sm.png
          :target: https://kbv2.acquia.com/support
-
-+--------------------------------------+----------------------------+--------------------------------+------------------------------------+
-| |lift-img| |lift-text|               | |cloud-img| |cloud-text|   | |ra-img| |ra-text|             | |api-img| |api-text|               |
-|                                      |                            |                                |                                    |
-| |content-hub-img| |content-hub-text| | |acsf-img| |acsf-text|     | |as-img| |as-text|             | |dd-img| |dd-text|                 |
-|                                      |                            |                                |                                    |
-| |exp-bld-img| |exp-bld-text|         | |mollom-img| |mollom-text| | |dtools-img| |dtools-text|     |                                    |
-|                                      |                            |                                |                                    |
-| |prof-mgr-img| |prof-mgr-text|       |                            |                                |                                    |
-+--------------------------------------+----------------------------+--------------------------------+------------------------------------+
-
 
 Release notes
 ==================
