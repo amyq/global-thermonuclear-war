@@ -5,7 +5,7 @@ Release Notes for Acquia Cloud
 
 .. toctree::
    :caption: Table of Contents
-   :maxdepth: 2
+   :maxdepth: 1
    :titlesonly:
    :hidden:
    :glob:
