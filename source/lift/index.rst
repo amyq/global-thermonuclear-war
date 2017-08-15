@@ -15,7 +15,7 @@ Available packages
 personalize your content for customers, including the following:
 
 +-----------+-----------------------+----------------+------------------------+----------------+
-| Package   | |leb|_                | |lpm|_         | |hub|_                  | |ldb|_        |
+| Package   | |leb|_                | |lpm|_         | |hub|_                 | |ldb|_         |
 +===========+=======================+================+========================+================+
 | |lifts|   | |Yes|                 | |Yes|          | |Yes|                  | |No|           |
 |           |                       |                |                        |                |
@@ -62,7 +62,7 @@ better engage with your website visitors:
 
 -  **|hub|_**
 
-   |ch logo|\ |hub| is a cloud-based,
+   |ch logo|\ |hub|_ is a cloud-based,
    centralized content distribution and syndication solution that
    provides you with the ability to share and enrich content throughout
    a network of content sources (including Drupal websites) with
@@ -71,6 +71,8 @@ better engage with your website visitors:
    enables enterprises that operate many digital properties to
    effectively publish, reuse, and syndicate content across a variety of
    content sources and publishing channels.
+
+.. _hub: https://docs.acquia.com/lift/drupal/web
 
 Additional features
 -------------------
@@ -99,11 +101,7 @@ following features:
 Browser requirements
 --------------------
 
-|lift| supports the current and prior major releases of
-the Chrome, Firefox, Internet Explorer, and Safari web browsers for
-capturing visitor data and displaying personalized content. The
-|leb| administrative sidebar is supported for Chrome and
-Firefox.
+|lift| supports the current and prior major releases of the Chrome, Firefox, Internet Explorer, and Safari web browsers for capturing visitor data and displaying personalized content. The |leb| administrative sidebar is supported for Chrome and Firefox.
 
 Note for |alr| (|lift| 2.x) users
 
@@ -131,6 +129,6 @@ documentation page.
 .. _alr: http://docs.acquia.com/lift/offers
 .. _leb: https://docs.acquia.com/lift/drupal
 .. _lpm: https://docs.acquia.com/lift/drupal/web
-.. _hub: https://docs.acquia.com/lift/drupal/web
+
 .. _ldb: https://docs.acquia.com/content-hub
 .. _lift: https://www.acquia.com/products-services/acquia-lift
