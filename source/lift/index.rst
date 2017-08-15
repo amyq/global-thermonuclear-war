@@ -84,7 +84,7 @@ Depending on the |lift| package that you select, you can
 also access the [acquia-product:ldb] functionality, which provides the
 following features:
 
--  **`Data warehouse <http://docs.acquia.com/lift/omni>`__** - Using this feature, you can
+-  |Data warehouse| - Using this feature, you can
    integrate data from other systems (such as marketing automation or
    CRM) into |lift| profiles by using a dedicated
    connection to `Amazon Redshift <http://aws.amazon.com/redshift/>`__.
@@ -92,7 +92,7 @@ following features:
    |lift|-hosted visitor data, and with this direct
    access, you can use your own business intelligence tools to analyze
    your website visitors and discover new insights.
--  **`APIs <http://docs.acquia.com/lift/omni/api>`__** - [acquia-product:ldb] includes access
+-  |APIs| - [acquia-product:ldb] includes access
    to several |lift| APIs that you can use to exchange
    your visitor data with other systems.
 -  **Optional additional connectors** - An |ldb|
@@ -100,6 +100,12 @@ following features:
    user and sales information. Currently, |lift|
    officially supports the
    `Marketo <http://docs.acquia.com/lift/drupal/web/admin/connectors>`__ connector.
+
+.. |Data warehouse| replace:: **Data warehouse**
+.. _Data warehouse: http://docs.acquia.com/lift/omni
+.. |APIs| replace:: **APIs**
+.. _APIs: http://docs.acquia.com/lift/omni/api
+
 
 Browser requirements
 --------------------
