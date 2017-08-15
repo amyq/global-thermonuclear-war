@@ -62,7 +62,7 @@ better engage with your website visitors:
 
 -  **|hub|_**
 
-   |ch logo|\ |hub|_ is a cloud-based,
+   |ch logo| |hub|_ is a cloud-based,
    centralized content distribution and syndication solution that
    provides you with the ability to share and enrich content throughout
    a network of content sources (including Drupal websites) with
@@ -72,6 +72,9 @@ better engage with your website visitors:
    effectively publish, reuse, and syndicate content across a variety of
    content sources and publishing channels.
 
+.. |ch logo| image:: http://docs.acquia.com/sites/default/files/doc/2015/oct/content-hub-logo-sm.png
+   :width: 40 px
+   :align: right
 .. _hub: https://docs.acquia.com/lift/drupal/web
 
 Additional features
@@ -119,10 +122,6 @@ documentation page.
     :align: right
 
 .. |lpm logo| image:: http://docs.acquia.com/sites/docs.acquia.com/files/product-icons/lift-Profile-Manager-final.png
-    :width: 40 px
-    :align: right
-
-.. |ch logo| image:: http://docs.acquia.com/sites/default/files/doc/2015/oct/content-hub-logo-sm.png
     :width: 40 px
     :align: right
 
