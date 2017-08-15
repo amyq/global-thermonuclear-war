@@ -73,8 +73,7 @@ better engage with your website visitors:
    content sources and publishing channels.
 
 .. |ch logo| image:: http://docs.acquia.com/sites/default/files/doc/2015/oct/content-hub-logo-sm.png
-   :width: 40 px
-   :align: right
+
 .. _hub: https://docs.acquia.com/lift/drupal/web
 
 Additional features
@@ -118,18 +117,12 @@ For product documentation regarding previous versions of |lift|, see the |alr|_
 documentation page.
 
 .. |Acquia-Lift-logo| image:: http://docs.acquia.com/sites/default/files/doc/2014/feb/logo-lift.png
-    :width: 61 px
-    :align: right
 
 .. |Yes| image:: http://docs.acquia.com/sites/docs.acquia.com/files/doc/2016/mar/check-green.png
 .. |No| image:: http://docs.acquia.com/sites/docs.acquia.com/files/doc/2016/mar/cloud-x-red2.png
 .. |leb logo| image:: http://docs.acquia.com/sites/docs.acquia.com/files/product-icons/lift-Experience-Builder.png
-    :width: 40 px
-    :align: right
 
 .. |lpm logo| image:: http://docs.acquia.com/sites/docs.acquia.com/files/product-icons/lift-Profile-Manager-final.png
-    :width: 40 px
-    :align: right
 
 .. _alr: http://docs.acquia.com/lift/offers
 .. _leb: https://docs.acquia.com/lift/drupal
